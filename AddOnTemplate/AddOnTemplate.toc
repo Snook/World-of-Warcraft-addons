@@ -1,0 +1,20 @@
+## Interface: 11000
+## Title: AddOnTemplate
+## Notes:
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## RequiredDeps:
+## OptionalDeps:
+## SavedVariables:
+## SavedVariablesPerCharacter:
+## LoadOnDemand:
+## LoadWith:
+## DefaultState: enabled
+## Author: Ghryphen
+AddOnTemplate.xml

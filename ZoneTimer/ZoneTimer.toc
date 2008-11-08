@@ -1,0 +1,14 @@
+## Interface: 30000
+## Version: 1.23
+## Title: ZoneTimer
+## Notes: Displays how long it takes to zone in seconds.
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## Author: Ghryphen
+ZoneTimer.lua

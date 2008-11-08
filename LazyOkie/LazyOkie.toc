@@ -1,0 +1,10 @@
+## Interface: 30000
+## Version: 2.0.0
+## Title: LazyOkie
+## Notes: Hides names when entering an instance.
+## OptionalDeps: Portfolio
+## Author: Ghryphen
+## X-Email: ghryphen@gmail.com
+## X-Website: https://github.com/ghryphen/World-of-Warcraft
+## SavedVariablesPerCharacter: LazyOkie_SavedVars
+LazyOkie.xml

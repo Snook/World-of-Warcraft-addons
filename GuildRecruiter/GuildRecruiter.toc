@@ -1,0 +1,16 @@
+## Interface: 30000
+## Version: 1.13
+## Title: GuildRecruiter
+## Notes: Automatically advertise Guild recruitment message and automatically invite those interested.
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## OptionalDeps: Chronos
+## SavedVariablesPerCharacter: GR_Options
+## Author: Ghryphen
+GuildRecruiter.xml

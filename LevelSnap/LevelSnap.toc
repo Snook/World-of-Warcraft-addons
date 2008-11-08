@@ -1,0 +1,16 @@
+## Interface: 30000
+## Version: 1.4.1
+## Title: LevelSnap
+## Notes: Automatically snaps a screen shot when you level.
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## OptionalDeps: Chronos, Khaos
+## SavedVariablesPerCharacter: LS_Options
+## Author: Ghryphen
+LevelSnap.xml

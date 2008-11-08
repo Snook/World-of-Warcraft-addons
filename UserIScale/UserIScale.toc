@@ -1,0 +1,8 @@
+## Interface: 30000
+## Version: 1.0.0
+## Title: UserIScale
+## Notes: Saves separate uiScale values per WoW account.
+## SavedVariablesPerCharacter: UserIScale_uiScale
+## Author: Ghryphen
+## X-Website: https://github.com/ghryphen/World-of-Warcraft
+UserIScale.xml

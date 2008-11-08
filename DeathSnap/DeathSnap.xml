@@ -1,0 +1,36 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+
+	<!-- $Id: DeathSnap.xml 984 2008-05-08 16:49:28Z ghryphen $ -->
+
+	<!-- Required Embeddable Libs -->
+	<Include file="Chronos\Chronos.xml"/>
+
+	<!-- Default Localization -->
+	<Script file="localization.us.lua"/>
+
+	<!-- Secondary Localizations -->
+	<Script file="localization.cn.lua"/>
+	<Script file="localization.de.lua"/>
+	<Script file="localization.fr.lua"/>
+	<Script file="localization.gb.lua"/>
+	<Script file="localization.kr.lua"/>
+	<Script file="localization.ru.lua"/>
+	<Script file="localization.es.lua"/>
+	<Script file="localization.tw.lua"/>
+
+	<!-- Scripts -->
+	<Script file="DeathSnap.lua"/>
+
+	<!-- Frames -->
+	<Frame name="DeathSnap" hidden="true">
+		<Scripts>
+			<OnLoad>
+				DS_On.Load();
+			</OnLoad>
+			<OnEvent>
+				DS_On.Event(event);
+			</OnEvent>
+		</Scripts>
+	</Frame>
+
+</Ui>

@@ -1,0 +1,4 @@
+## Interface: 30000
+## Title: BeGoneMapButton
+## Notes: Removes the map button from the minimap
+BeGoneMapButton.lua

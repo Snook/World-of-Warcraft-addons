@@ -1,0 +1,14 @@
+## Interface: 30000
+## Version: 1.0.0
+## Title: BeGoneBarArt
+## Notes: Removes the action bar ghryphen artwork.
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## Author: Ghryphen
+BeGoneBarArt.lua

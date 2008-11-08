@@ -1,0 +1,16 @@
+## Interface: 30000
+## Version: 1.0.1
+## Title: DeathSnap
+## Notes: Automatically snaps a screen shot when you die.
+## Notes-zhCN:
+## Notes-deDE:
+## Notes-esES:
+## Notes-frFR:
+## Notes-enGB:
+## Notes-koKR:
+## Notes-ruRU:
+## Notes-zhTW:
+## OptionalDeps: Chronos, Khaos
+## SavedVariablesPerCharacter: DS_Options
+## Author: Ghryphen
+DeathSnap.xml
